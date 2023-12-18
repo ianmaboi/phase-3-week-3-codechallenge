@@ -184,6 +184,6 @@ The following have been used on this project:
 
 ## Authors
 
-- [Suleiman Osman](https://github.com/suleosmann)
+- [Ian Maboi]
 
 
